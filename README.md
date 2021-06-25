@@ -1,4 +1,4 @@
-#Simple static webstie
+# Simple static webstie
 
 website featuers
 
